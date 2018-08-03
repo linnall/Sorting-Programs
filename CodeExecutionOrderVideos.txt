@@ -1,0 +1,3 @@
+Merge Sort: https://youtu.be/zNuYYncTtsw
+Quick Sort: https://youtu.be/JPCuA5R373g
+Heap Sort: https://youtu.be/vBaAi4TlATg
